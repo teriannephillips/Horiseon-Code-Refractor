@@ -29,20 +29,20 @@ body {
     color: #d9dcd6;
 }
 
-/* formatting for header div */
-.header div {
+/* formatting for header navigation */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* formatting for header div ul */
-.header div ul {
+/* formatting for header navigation ul */
+.header nav ul {
     list-style-type: none;
 }
-/* formatting for header div ul li */
-.header div ul li {
+/* formatting for header navigation ul li */
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
