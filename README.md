@@ -6,7 +6,7 @@ Horiseon is Horiseon Social Solutions Inc's website that helps it's customers cr
 
 ## Screenshot
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-![Homepage](/assets/images/Horiseon-website.jpg)
+![Homepage](./assets/images/Horiseon-website.jpg)
 
 ## Link
 -------------------------------------------------------------------------------------------------------------------------------------------------------
